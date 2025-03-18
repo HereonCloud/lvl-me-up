@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Lvl Me Up",
+  "version": "1.0.0",
+  "description": "A to do list chrome extension that levels you up as you progress.",
+  "action": {
+    "default_popup": "index.html"
+  },
+  "permissions": ["sidePanel"]
+}
